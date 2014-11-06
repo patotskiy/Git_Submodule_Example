@@ -1,3 +1,0 @@
-[submodule "patotskiy/selenium-drivers"]
-      path = exec
-      url = git@github.com:patotskiy/selenium-drivers.git
